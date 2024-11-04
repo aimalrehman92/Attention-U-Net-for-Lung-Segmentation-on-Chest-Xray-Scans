@@ -10,7 +10,7 @@ Helper functions:\
 attention_unet.py\
 utilities.py
 
-# How to run in your Google Colab (as you might want to bring into use the GPU capability)
+# How to run in Google Colab (as you might want to bring into use the GPU capability)
 
 1. Clone the repository into a Colab session
 2. The data has to be located in the Google Drive in the exact same setting of diretories as mentioned in the code
@@ -21,6 +21,7 @@ utilities.py
 
 Note: You can run the repository in your local in the exact same manner as in Google Colab
 
-
-
 ![Caption: Lung Segmentation on Chest Xray Scan](lung_segmentation_sample.png)
+
+
+[Click here to access the dataset on Kaggle](https://www.kaggle.com/datasets/nikhilpandey360/chest-xray-masks-and-labels)
